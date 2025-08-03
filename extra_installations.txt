@@ -1,0 +1,5 @@
+pip install -r https://raw.githubusercontent.com/nvidia-riva/python-clients/main/requirements.txt
+
+pip install --force-reinstall git+https://github.com/nvidia-riva/python-clients.git
+
+git clone https://github.com/nvidia-riva/python-clients.git
